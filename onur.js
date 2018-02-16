@@ -13,3 +13,10 @@ var reduce = function(arr, callback, val) {
     }
     return result;
 };
+
+var uniq = function(arr) {
+    var helperArr = [];
+    for (i = 0, j = arr.length; i < j; i++)
+        if (helperArr.indexOf(arr[i]) === -1 && arr[i] !== '') helperArr.push(arr[i]);
+    return helperArr;
+}
