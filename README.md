@@ -15,15 +15,13 @@ While it will be tempting to read the source code of such libraries and/or copy 
 
 ## What we will look for:
 
-- Working and functional code and described.
+- Working and functional code as described.
 - Algorithmic thinking (How you tackled the problem):
   - Number of lines of code.
   - Time complexity.
   - Space complexity.
 - Code style and cleanance.
 
-
--- 
 
 # Exercise:
 
