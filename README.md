@@ -99,10 +99,6 @@ var other = {
    }
 };
  
-var other = {
-  'a': [{ 'c': 3 }, { 'e': 5 }]
-};
- 
 merge(object, other);
 // => {
   'a': 2,
